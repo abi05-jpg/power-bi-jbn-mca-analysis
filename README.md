@@ -61,9 +61,9 @@ The analysis covers:
 
 ## Project File
 
-The Power BI dashboard file is included in this repository:
+The Power BI source file is not included in this public repository because the dashboard was built using externally sourced business data.
 
-`JBN_MCA_Business_Insights.pbix`
+This repository focuses on the analysis, methodology, insights, and dashboard outputs.
 
 ## Data Source
 
